@@ -36,13 +36,4 @@
 <br>
 <br>
 
-## 💻 DEV's log 💻
-
-<div style="display:flex; flex-direction:row;">
-  <a href="https://velog.io/@chaewon22"><img src="https://img.shields.io/badge/VELOG-20C997?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@chaewon22"/></a>
-
-[![Chaewon's GitHub stats](https://velog-readme-stats.vercel.app/api?name=chaewon22)](https://velog.io/@chaewon22)
-</div><br>
-
-
 </div>
